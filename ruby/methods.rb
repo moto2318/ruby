@@ -1,0 +1,1 @@
+puts "webchanpでプログラミング学習".methods
