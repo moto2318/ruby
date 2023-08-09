@@ -1,0 +1,1 @@
+puts "webchanp".reverse #文字反転

@@ -1,0 +1,1 @@
+puts "webchanp".length　#文字数確認
